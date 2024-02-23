@@ -1,0 +1,30 @@
+Sehr geehrte Frau Lambagi,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Baumschulenweg 84:
+
+-Außentemperatur 10 °C: 1038.643 kW
+-Außentemperatur 0 °C: 2077.286 kW
+-Außentemperatur -10 °C: 3115.929 kW
+
+Transmissionsemissionsverluste für Baumschulenweg 22:
+
+-Außentemperatur 10 °C: 833.34 kW
+-Außentemperatur 0 °C: 1666.68 kW
+-Außentemperatur -10 °C: 2500.02 kW
+
+Transmissionsemissionsverluste für Baumschulenweg 18:
+
+-Außentemperatur 10 °C: 1188.864 kW
+-Außentemperatur 0 °C: 2377.728 kW
+-Außentemperatur -10 °C: 3566.592 kW
+
+Transmissionsemissionsverluste für Baumschulenweg 39:
+
+-Außentemperatur 10 °C: 2255.398 kW
+-Außentemperatur 0 °C: 4510.796 kW
+-Außentemperatur -10 °C: 6766.195 kW
+
+
+Mit besten Grüßen
+Max Mustermann

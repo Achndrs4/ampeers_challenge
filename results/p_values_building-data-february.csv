@@ -1,0 +1,63 @@
+street,street number,city,real estate manager,inhabitants,living units,total living space [m2],floors,height [m],U [W/m2K],P_VALUE_FOR10.0_DEGREES,P_VALUE_FOR0.0_DEGREES,P_VALUE_FOR-10.0_DEGREES
+Bernauer Straße,26,Berlin,Frau Smirnow,128,51,3672,5,17.5,1.16,851904.0,1703808.0,2555712.0
+Bernauer Straße,74,Berlin,Frau Smirnow,139,56,5376,3,9.0,0.96,619315.2,1238630.4,1857945.6
+Bernauer Straße,73,Berlin,Frau Smirnow,149,60,5280,2,6.0,1.04,439296.0,878592.0,1317888.0
+Bernauer Straße,20,Berlin,Frau Smirnow,145,58,5684,3,9.0,1.23,838958.4,1677916.8,2516875.2
+Neunheimer Straße,74,Berlin,Frau Suzuki,135,54,5292,3,9.0,1.72,1092268.8,2184537.6,3276806.4
+Neunheimer Straße,81,Berlin,Frau Suzuki,64,26,1976,3,9.0,0.27,64022.4,128044.8,192067.2
+Neunheimer Straße,52,Berlin,Frau Suzuki,197,79,6715,4,12.0,1.62,1740528.0,3481056.0,5221584.0
+Neunheimer Straße,83,Berlin,Frau Suzuki,232,93,6603,4,12.0,0.28,295814.4,591628.8,887443.2
+Dörpfelder Straße,17,Berlin,Herr Schwarz,106,42,3990,4,12.0,0.69,440496.0,880992.0,1321488.0
+Dörpfelder Straße,14,Berlin,Herr Schwarz,104,42,2940,2,6.0,1.22,286944.0,573888.0,860832.0
+Dörpfelder Straße,77,Berlin,Herr Schwarz,53,21,2058,3,9.0,1.32,325987.2,651974.4,977961.6
+Dörpfelder Straße,93,Berlin,Herr Schwarz,170,68,4352,5,15.0,0.93,809472.0,1618944.0,2428416.0
+Dörpfelder Straße,72,Berlin,Herr Schwarz,62,25,2175,4,12.0,1.03,358440.0,716880.0,1075320.0
+Siegmund-Klee-Straße,36,Berlin,Frau Tanaka,50,20,1800,4,12.0,1.71,492480.0,984960.0,1477440.0
+Siegmund-Klee-Straße,16,Berlin,Frau Tanaka,169,68,6392,3,9.0,0.69,529257.6,1058515.2,1587772.8
+Siegmund-Klee-Straße,43,Berlin,Frau Tanaka,201,80,5280,4,12.0,1.68,1419264.0,2838528.0,4257792.0
+Siegmund-Klee-Straße,77,Berlin,Frau Tanaka,218,87,5220,2,6.0,1.19,496944.0,993888.0,1490832.0
+Siegmund-Klee-Straße,95,Berlin,Frau Tanaka,225,90,7650,4,12.0,0.85,1040400.0,2080800.0,3121200.0
+Siegmund-Klee-Straße,20,Berlin,Frau Tanaka,199,80,5840,3,9.0,0.66,462528.0,925056.0,1387584.0
+Siegmund-Klee-Straße,44,Berlin,Frau Tanaka,140,56,5264,3,9.0,0.77,486393.6,972787.2,1459180.8
+Siegmund-Klee-Straße,66,Berlin,Frau Tanaka,180,72,6480,4,12.0,1.03,1067904.0,2135808.0,3203712.0
+Siegmund-Klee-Straße,52,Berlin,Frau Tanaka,96,38,2850,3,9.0,1.22,417240.0,834480.0,1251720.0
+Siegmund-Klee-Straße,45,Berlin,Frau Tanaka,192,77,5005,4,12.0,1.15,920920.0,1841840.0,2762760.0
+Bahnhofsstraße,12,Berlin,Frau Blaum,155,62,5208,4,12.0,0.25,208320.0,416640.0,624960.0
+Bahnhofsstraße,63,Berlin,Frau Blaum,178,71,4331,3,9.0,1.08,561297.6,1122595.2,1683892.8
+Bahnhofsstraße,38,Berlin,Frau Blaum,134,54,5130,4,12.0,1.51,1239408.0,2478816.0,3718224.0
+Bahnhofsstraße,4,Berlin,Frau Blaum,230,92,9108,4,12.0,0.48,699494.4,1398988.8,2098483.2
+Bahnhofsstraße,98,Berlin,Frau Blaum,82,33,2640,3,9.0,1.51,478368.0,956736.0,1435104.0
+Bahnhofsstraße,67,Berlin,Frau Blaum,76,30,2310,3,9.0,0.91,252252.0,504504.0,756756.0
+Bahnhofsstraße,32,Berlin,Frau Blaum,55,22,1518,3,9.0,1.07,194911.2,389822.4,584733.6
+Schrödinger Gasse,51,Berlin,Frau Bauer,196,78,4758,3,9.0,0.93,530992.8,1061985.6,1592978.4
+Schrödinger Gasse,4,Berlin,Frau Bauer,161,64,4224,2,6.0,1.52,513638.4,1027276.8,1540915.2
+Schrödinger Gasse,49,Berlin,Frau Bauer,169,68,5440,4,12.0,1.54,1340416.0,2680832.0,4021248.0
+Schrödinger Gasse,55,Berlin,Frau Bauer,232,93,7254,3,9.0,1.0,870480.0,1740960.0,2611440.0
+Schrödinger Gasse,56,Berlin,Frau Bauer,118,47,3619,4,12.0,1.73,1001739.2,2003478.4,3005217.6
+Schrödinger Gasse,74,Berlin,Frau Bauer,184,74,6216,4,12.0,1.33,1322764.8,2645529.6,3968294.4
+Schrödinger Gasse,88,Berlin,Frau Bauer,55,22,1914,4,12.0,0.53,162307.2,324614.4,486921.6
+Ludwig Willhem Allee,34,Berlin,Herr Balles,243,97,9409,3,9.0,1.24,1400059.2,2800118.4,4200177.6
+Ludwig Willhem Allee,74,Berlin,Herr Balles,58,23,2070,4,12.0,1.15,380880.0,761760.0,1142640.0
+Ludwig Willhem Allee,52,Berlin,Herr Balles,60,24,2136,4,12.0,1.31,447705.6,895411.2,1343116.8
+Ludwig Willhem Allee,41,Berlin,Herr Balles,85,34,3230,5,15.0,0.81,523260.0,1046520.0,1569780.0
+Ludwig Willhem Allee,75,Berlin,Herr Balles,87,35,2520,3,9.0,0.73,220752.0,441504.0,662256.0
+Ludwig Willhem Allee,15,Berlin,Herr Balles,176,70,6230,2,6.0,0.5,249200.0,498400.0,747600.0
+Ludwig Willhem Allee,61,Berlin,Herr Balles,242,97,6596,4,12.0,0.65,685984.0,1371968.0,2057952.0
+Landauer Straße,90,Berlin,Frau Kiani,148,59,3540,3,9.0,0.53,225144.0,450288.0,675432.0
+Landauer Straße,22,Berlin,Frau Kiani,187,75,6825,3,9.0,0.55,450450.0,900900.0,1351350.0
+Baumschulenweg,84,Berlin,Frau Lambagi,121,48,4704,4,12.0,1.38,1038643.2,2077286.4,3115929.6
+Baumschulenweg,22,Berlin,Frau Lambagi,214,86,8170,3,9.0,0.85,833340.0,1666680.0,2500020.0
+Baumschulenweg,18,Berlin,Frau Lambagi,151,60,4320,4,12.0,1.72,1188864.0,2377728.0,3566592.0
+Baumschulenweg,39,Berlin,Frau Lambagi,231,92,8648,4,12.0,1.63,2255398.4,4510796.8,6766195.2
+Heidelstraße,84,Berlin,Frau Bauer,161,64,4352,4,12.0,1.13,786841.6,1573683.2,2360524.8
+Heidelstraße,89,Berlin,Frau Bauer,237,95,6365,4,12.0,0.4,407360.0,814720.0,1222080.0
+Heidelstraße,14,Berlin,Frau Bauer,243,97,6208,4,12.0,0.96,953548.8,1907097.6,2860646.4
+Heidelstraße,38,Berlin,Frau Bauer,54,22,2090,5,15.0,0.8,334400.0,668800.0,1003200.0
+Treptower Weg,73,Berlin,Frau Smirnow,83,33,2838,3,9.0,1.35,459756.0,919512.0,1379268.0
+Treptower Weg,20,Berlin,Frau Smirnow,57,23,1656,2,6.0,1.6,211968.0,423936.0,635904.0
+Treptower Weg,31,Berlin,Frau Smirnow,87,35,2975,4,12.0,0.8,380800.0,761600.0,1142400.0
+Treptower Weg,1,Berlin,Frau Smirnow,209,84,5460,3,9.0,0.46,301392.0,602784.0,904176.0
+Treptower Weg,80,Berlin,Frau Smirnow,168,67,4221,3,9.0,1.42,719258.4,1438516.8,2157775.2
+Einstein Straße,43,Berlin,Frau Smirnow,95,38,3230,3,9.0,1.31,507756.0,1015512.0,1523268.0
+Einstein Straße,65,Berlin,Frau Smirnow,161,64,5760,4,12.0,0.71,654336.0,1308672.0,1963008.0
+Einstein Straße,28,Berlin,Frau Smirnow,128,51,4386,5,15.0,0.87,763164.0,1526328.0,2289492.0

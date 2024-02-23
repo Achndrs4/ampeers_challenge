@@ -1,0 +1,72 @@
+Sehr geehrte Frau Bauer,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Schrödinger Gasse 51:
+
+-Außentemperatur 10 °C: 530.992 kW
+-Außentemperatur 0 °C: 1061.985 kW
+-Außentemperatur -10 °C: 1592.978 kW
+
+Transmissionsemissionsverluste für Schrödinger Gasse 4:
+
+-Außentemperatur 10 °C: 513.638 kW
+-Außentemperatur 0 °C: 1027.276 kW
+-Außentemperatur -10 °C: 1540.915 kW
+
+Transmissionsemissionsverluste für Schrödinger Gasse 49:
+
+-Außentemperatur 10 °C: 1340.416 kW
+-Außentemperatur 0 °C: 2680.832 kW
+-Außentemperatur -10 °C: 4021.248 kW
+
+Transmissionsemissionsverluste für Schrödinger Gasse 55:
+
+-Außentemperatur 10 °C: 870.48 kW
+-Außentemperatur 0 °C: 1740.96 kW
+-Außentemperatur -10 °C: 2611.44 kW
+
+Transmissionsemissionsverluste für Schrödinger Gasse 56:
+
+-Außentemperatur 10 °C: 1001.739 kW
+-Außentemperatur 0 °C: 2003.478 kW
+-Außentemperatur -10 °C: 3005.217 kW
+
+Transmissionsemissionsverluste für Schrödinger Gasse 74:
+
+-Außentemperatur 10 °C: 1322.764 kW
+-Außentemperatur 0 °C: 2645.529 kW
+-Außentemperatur -10 °C: 3968.294 kW
+
+Transmissionsemissionsverluste für Schrödinger Gasse 88:
+
+-Außentemperatur 10 °C: 162.307 kW
+-Außentemperatur 0 °C: 324.614 kW
+-Außentemperatur -10 °C: 486.921 kW
+
+Transmissionsemissionsverluste für Heidelstraße 84:
+
+-Außentemperatur 10 °C: 786.841 kW
+-Außentemperatur 0 °C: 1573.683 kW
+-Außentemperatur -10 °C: 2360.524 kW
+
+Transmissionsemissionsverluste für Heidelstraße 89:
+
+-Außentemperatur 10 °C: 407.36 kW
+-Außentemperatur 0 °C: 814.72 kW
+-Außentemperatur -10 °C: 1222.08 kW
+
+Transmissionsemissionsverluste für Heidelstraße 14:
+
+-Außentemperatur 10 °C: 953.548 kW
+-Außentemperatur 0 °C: 1907.097 kW
+-Außentemperatur -10 °C: 2860.646 kW
+
+Transmissionsemissionsverluste für Heidelstraße 38:
+
+-Außentemperatur 10 °C: 334.4 kW
+-Außentemperatur 0 °C: 668.8 kW
+-Außentemperatur -10 °C: 1003.2 kW
+
+
+Mit besten Grüßen
+Max Mustermann

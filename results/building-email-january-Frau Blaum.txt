@@ -1,0 +1,48 @@
+Sehr geehrte Frau Blaum,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Bahnhofsstraße 12:
+
+-Außentemperatur 10 °C: 208.32 kW
+-Außentemperatur 0 °C: 416.64 kW
+-Außentemperatur -10 °C: 624.96 kW
+
+Transmissionsemissionsverluste für Bahnhofsstraße 63:
+
+-Außentemperatur 10 °C: 561.297 kW
+-Außentemperatur 0 °C: 1122.595 kW
+-Außentemperatur -10 °C: 1683.892 kW
+
+Transmissionsemissionsverluste für Bahnhofsstraße 38:
+
+-Außentemperatur 10 °C: 1239.408 kW
+-Außentemperatur 0 °C: 2478.816 kW
+-Außentemperatur -10 °C: 3718.224 kW
+
+Transmissionsemissionsverluste für Bahnhofsstraße 4:
+
+-Außentemperatur 10 °C: 699.494 kW
+-Außentemperatur 0 °C: 1398.988 kW
+-Außentemperatur -10 °C: 2098.483 kW
+
+Transmissionsemissionsverluste für Bahnhofsstraße 98:
+
+-Außentemperatur 10 °C: 478.368 kW
+-Außentemperatur 0 °C: 956.736 kW
+-Außentemperatur -10 °C: 1435.104 kW
+
+Transmissionsemissionsverluste für Bahnhofsstraße 67:
+
+-Außentemperatur 10 °C: 252.252 kW
+-Außentemperatur 0 °C: 504.504 kW
+-Außentemperatur -10 °C: 756.756 kW
+
+Transmissionsemissionsverluste für Bahnhofsstraße 32:
+
+-Außentemperatur 10 °C: 194.911 kW
+-Außentemperatur 0 °C: 389.822 kW
+-Außentemperatur -10 °C: 584.733 kW
+
+
+Mit besten Grüßen
+Max Mustermann

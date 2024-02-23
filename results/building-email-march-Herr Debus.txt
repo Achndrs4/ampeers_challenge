@@ -1,0 +1,66 @@
+Sehr geehrte Herr Debus,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Karlsruherstraße 6:
+
+-Außentemperatur 10 °C: 609.12 kW
+-Außentemperatur 0 °C: 1218.24 kW
+-Außentemperatur -10 °C: 1827.36 kW
+
+Transmissionsemissionsverluste für Karlsruherstraße 73:
+
+-Außentemperatur 10 °C: 636.169 kW
+-Außentemperatur 0 °C: 1272.339 kW
+-Außentemperatur -10 °C: 1908.508 kW
+
+Transmissionsemissionsverluste für Karlsruherstraße 74:
+
+-Außentemperatur 10 °C: 296.088 kW
+-Außentemperatur 0 °C: 592.176 kW
+-Außentemperatur -10 °C: 888.264 kW
+
+Transmissionsemissionsverluste für Karlsruherstraße 52:
+
+-Außentemperatur 10 °C: 648.96 kW
+-Außentemperatur 0 °C: 1297.92 kW
+-Außentemperatur -10 °C: 1946.88 kW
+
+Transmissionsemissionsverluste für Karlsruherstraße 13:
+
+-Außentemperatur 10 °C: 1017.139 kW
+-Außentemperatur 0 °C: 2034.278 kW
+-Außentemperatur -10 °C: 3051.417 kW
+
+Transmissionsemissionsverluste für Karlsruherstraße 7:
+
+-Außentemperatur 10 °C: 1644.595 kW
+-Außentemperatur 0 °C: 3289.19 kW
+-Außentemperatur -10 °C: 4933.785 kW
+
+Transmissionsemissionsverluste für Prenzlauerstraße 18:
+
+-Außentemperatur 10 °C: 196.8 kW
+-Außentemperatur 0 °C: 393.6 kW
+-Außentemperatur -10 °C: 590.4 kW
+
+Transmissionsemissionsverluste für Prenzlauerstraße 57:
+
+-Außentemperatur 10 °C: 111.513 kW
+-Außentemperatur 0 °C: 223.027 kW
+-Außentemperatur -10 °C: 334.54 kW
+
+Transmissionsemissionsverluste für Prenzlauerstraße 49:
+
+-Außentemperatur 10 °C: 348.3 kW
+-Außentemperatur 0 °C: 696.6 kW
+-Außentemperatur -10 °C: 1044.9 kW
+
+Transmissionsemissionsverluste für Prenzlauerstraße 78:
+
+-Außentemperatur 10 °C: 353.808 kW
+-Außentemperatur 0 °C: 707.616 kW
+-Außentemperatur -10 °C: 1061.424 kW
+
+
+Mit besten Grüßen
+Max Mustermann

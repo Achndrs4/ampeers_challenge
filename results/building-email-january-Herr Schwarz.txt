@@ -1,0 +1,36 @@
+Sehr geehrte Herr Schwarz,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Dörpfelder Straße 17:
+
+-Außentemperatur 10 °C: 440.496 kW
+-Außentemperatur 0 °C: 880.992 kW
+-Außentemperatur -10 °C: 1321.488 kW
+
+Transmissionsemissionsverluste für Dörpfelder Straße 14:
+
+-Außentemperatur 10 °C: 286.944 kW
+-Außentemperatur 0 °C: 573.888 kW
+-Außentemperatur -10 °C: 860.832 kW
+
+Transmissionsemissionsverluste für Dörpfelder Straße 77:
+
+-Außentemperatur 10 °C: 325.987 kW
+-Außentemperatur 0 °C: 651.974 kW
+-Außentemperatur -10 °C: 977.961 kW
+
+Transmissionsemissionsverluste für Dörpfelder Straße 93:
+
+-Außentemperatur 10 °C: 809.472 kW
+-Außentemperatur 0 °C: 1618.944 kW
+-Außentemperatur -10 °C: 2428.416 kW
+
+Transmissionsemissionsverluste für Dörpfelder Straße 72:
+
+-Außentemperatur 10 °C: 358.44 kW
+-Außentemperatur 0 °C: 716.88 kW
+-Außentemperatur -10 °C: 1075.32 kW
+
+
+Mit besten Grüßen
+Max Mustermann

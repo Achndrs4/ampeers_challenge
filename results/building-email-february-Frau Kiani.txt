@@ -1,0 +1,18 @@
+Sehr geehrte Frau Kiani,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Landauer Straße 90:
+
+-Außentemperatur 10 °C: 225.144 kW
+-Außentemperatur 0 °C: 450.288 kW
+-Außentemperatur -10 °C: 675.432 kW
+
+Transmissionsemissionsverluste für Landauer Straße 22:
+
+-Außentemperatur 10 °C: 450.45 kW
+-Außentemperatur 0 °C: 900.9 kW
+-Außentemperatur -10 °C: 1351.35 kW
+
+
+Mit besten Grüßen
+Max Mustermann

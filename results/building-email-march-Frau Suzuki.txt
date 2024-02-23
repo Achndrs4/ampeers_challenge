@@ -1,0 +1,30 @@
+Sehr geehrte Frau Suzuki,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Neunheimer Straße 74:
+
+-Außentemperatur 10 °C: 1092.268 kW
+-Außentemperatur 0 °C: 2184.537 kW
+-Außentemperatur -10 °C: 3276.806 kW
+
+Transmissionsemissionsverluste für Neunheimer Straße 81:
+
+-Außentemperatur 10 °C: 64.022 kW
+-Außentemperatur 0 °C: 128.044 kW
+-Außentemperatur -10 °C: 192.067 kW
+
+Transmissionsemissionsverluste für Neunheimer Straße 52:
+
+-Außentemperatur 10 °C: 1740.528 kW
+-Außentemperatur 0 °C: 3481.056 kW
+-Außentemperatur -10 °C: 5221.584 kW
+
+Transmissionsemissionsverluste für Neunheimer Straße 83:
+
+-Außentemperatur 10 °C: 295.814 kW
+-Außentemperatur 0 °C: 591.628 kW
+-Außentemperatur -10 °C: 887.443 kW
+
+
+Mit besten Grüßen
+Max Mustermann

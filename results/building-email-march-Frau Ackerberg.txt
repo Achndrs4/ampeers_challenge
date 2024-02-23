@@ -1,0 +1,42 @@
+Sehr geehrte Frau Ackerberg,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Alte Gasse 63:
+
+-Außentemperatur 10 °C: 771.012 kW
+-Außentemperatur 0 °C: 1542.024 kW
+-Außentemperatur -10 °C: 2313.036 kW
+
+Transmissionsemissionsverluste für Alte Gasse 32:
+
+-Außentemperatur 10 °C: 840.84 kW
+-Außentemperatur 0 °C: 1681.68 kW
+-Außentemperatur -10 °C: 2522.52 kW
+
+Transmissionsemissionsverluste für Alte Gasse 54:
+
+-Außentemperatur 10 °C: 225.624 kW
+-Außentemperatur 0 °C: 451.248 kW
+-Außentemperatur -10 °C: 676.872 kW
+
+Transmissionsemissionsverluste für Alte Gasse 15:
+
+-Außentemperatur 10 °C: 438.4 kW
+-Außentemperatur 0 °C: 876.8 kW
+-Außentemperatur -10 °C: 1315.2 kW
+
+Transmissionsemissionsverluste für Alte Gasse 35:
+
+-Außentemperatur 10 °C: 238.464 kW
+-Außentemperatur 0 °C: 476.928 kW
+-Außentemperatur -10 °C: 715.392 kW
+
+Transmissionsemissionsverluste für Alte Gasse 40:
+
+-Außentemperatur 10 °C: 198.777 kW
+-Außentemperatur 0 °C: 397.555 kW
+-Außentemperatur -10 °C: 596.332 kW
+
+
+Mit besten Grüßen
+Max Mustermann

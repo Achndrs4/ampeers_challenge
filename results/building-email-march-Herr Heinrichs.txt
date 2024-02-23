@@ -1,0 +1,48 @@
+Sehr geehrte Herr Heinrichs,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Edammer Straße 23:
+
+-Außentemperatur 10 °C: 853.368 kW
+-Außentemperatur 0 °C: 1706.736 kW
+-Außentemperatur -10 °C: 2560.104 kW
+
+Transmissionsemissionsverluste für Edammer Straße 52:
+
+-Außentemperatur 10 °C: 166.32 kW
+-Außentemperatur 0 °C: 332.64 kW
+-Außentemperatur -10 °C: 498.96 kW
+
+Transmissionsemissionsverluste für Edammer Straße 6:
+
+-Außentemperatur 10 °C: 429.235 kW
+-Außentemperatur 0 °C: 858.47 kW
+-Außentemperatur -10 °C: 1287.705 kW
+
+Transmissionsemissionsverluste für Edammer Straße 51:
+
+-Außentemperatur 10 °C: 447.488 kW
+-Außentemperatur 0 °C: 894.976 kW
+-Außentemperatur -10 °C: 1342.464 kW
+
+Transmissionsemissionsverluste für Edammer Straße 91:
+
+-Außentemperatur 10 °C: 503.808 kW
+-Außentemperatur 0 °C: 1007.616 kW
+-Außentemperatur -10 °C: 1511.424 kW
+
+Transmissionsemissionsverluste für Edammer Straße 74:
+
+-Außentemperatur 10 °C: 276.956 kW
+-Außentemperatur 0 °C: 553.913 kW
+-Außentemperatur -10 °C: 830.87 kW
+
+Transmissionsemissionsverluste für Edammer Straße 80:
+
+-Außentemperatur 10 °C: 274.06 kW
+-Außentemperatur 0 °C: 548.121 kW
+-Außentemperatur -10 °C: 822.182 kW
+
+
+Mit besten Grüßen
+Max Mustermann

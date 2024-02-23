@@ -1,0 +1,22 @@
+Sehr geehrte Frau Fischer,
+mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht. 
+
+Transmissionsemissionsverluste für Dörpfelderstraße 12: 
+- Außentemperatur -10 °C: 40 kW
+- Außentemperatur 0 °C: 30 kW
+- Außentemperatur 10 °C: 20 kW
+
+Transmissionsemissionsverluste für Dörpfelderstraße 14: 
+- Außentemperatur -10 °C: 35 kW
+- Außentemperatur 0 °C: 30 kW
+- Außentemperatur 10 °C: 25 kW
+
+Transmissionsemissionsverluste für Neumeyerweg 13: 
+- Außentemperatur -10 °C: 60 kW
+- Außentemperatur 0 °C: 50 kW
+- Außentemperatur 10 °C: 42 kW
+
+
+Mit besten Grüßen 
+Max Mustermann 

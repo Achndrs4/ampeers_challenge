@@ -1,0 +1,54 @@
+﻿street;street number;city;real estate manager;inhabitants;living units;total living space [m2];floors;height [m];U [W/m2K]
+Bernauer Straße;26;Berlin;Frau Smirnow;128;51;3672;5;17.5;1.16
+Bernauer Straße;74;Berlin;Frau Smirnow;139;56;5376;3;9.0;0.96
+Bernauer Straße;73;Berlin;Frau Smirnow;149;60;5280;2;6.0;1.04
+Bernauer Straße;20;Berlin;Frau Smirnow;145;58;5684;3;9.0;1.23
+Dörpfelder Straße;17;Berlin;Herr Schwarz;106;42;3990;4;12.0;0.69
+Dörpfelder Straße;14;Berlin;Herr Schwarz;104;42;2940;2;6.0;1.22
+Dörpfelder Straße;77;Berlin;Herr Schwarz;53;21;2058;3;9.0;1.32
+Dörpfelder Straße;93;Berlin;Herr Schwarz;170;68;4352;5;15.0;0.93
+Dörpfelder Straße;72;Berlin;Herr Schwarz;62;25;2175;4;12.0;1.03
+Bahnhofsstraße;12;Berlin;Frau Blaum;155;62;5208;4;12.0;0.25
+Bahnhofsstraße;63;Berlin;Frau Blaum;178;71;4331;3;9.0;1.08
+Bahnhofsstraße;38;Berlin;Frau Blaum;134;54;5130;4;12.0;1.51
+Bahnhofsstraße;4;Berlin;Frau Blaum;230;92;9108;4;12.0;0.48
+Bahnhofsstraße;98;Berlin;Frau Blaum;82;33;2640;3;9.0;1.51
+Bahnhofsstraße;67;Berlin;Frau Blaum;76;30;2310;3;9.0;0.91
+Bahnhofsstraße;32;Berlin;Frau Blaum;55;22;1518;3;9.0;1.07
+Edammer Straße;23;Berlin;Herr Heinrichs;93;37;3441;4;12.0;1.55
+Edammer Straße;52;Berlin;Herr Heinrichs;52;21;2100;2;6.0;0.99
+Edammer Straße;6;Berlin;Herr Heinrichs;134;54;3726;4;12.0;0.72
+Edammer Straße;51;Berlin;Herr Heinrichs;115;46;3680;4;12.0;0.76
+Edammer Straße;91;Berlin;Herr Heinrichs;149;60;3840;4;12.0;0.82
+Edammer Straße;74;Berlin;Herr Heinrichs;177;71;6532;2;6.0;0.53
+Edammer Straße;80;Berlin;Herr Heinrichs;241;96;5856;3;9.0;0.39
+Schrödinger Gasse;51;Berlin;Frau Bauer;196;78;4758;3;9.0;0.93
+Schrödinger Gasse;4;Berlin;Frau Bauer;161;64;4224;2;6.0;1.52
+Schrödinger Gasse;49;Berlin;Frau Bauer;169;68;5440;4;12.0;1.54
+Schrödinger Gasse;55;Berlin;Frau Bauer;232;93;7254;3;9.0;1.0
+Schrödinger Gasse;56;Berlin;Frau Bauer;118;47;3619;4;12.0;1.73
+Schrödinger Gasse;74;Berlin;Frau Bauer;184;74;6216;4;12.0;1.33
+Schrödinger Gasse;88;Berlin;Frau Bauer;55;22;1914;4;12.0;0.53
+Ludwig Willhem Allee;34;Berlin;Herr Balles;243;97;9409;3;9.0;1.24
+Ludwig Willhem Allee;74;Berlin;Herr Balles;58;23;2070;4;12.0;1.15
+Ludwig Willhem Allee;52;Berlin;Herr Balles;60;24;2136;4;12.0;1.31
+Ludwig Willhem Allee;41;Berlin;Herr Balles;85;34;3230;5;15.0;0.81
+Ludwig Willhem Allee;75;Berlin;Herr Balles;87;35;2520;3;9.0;0.73
+Ludwig Willhem Allee;15;Berlin;Herr Balles;176;70;6230;2;6.0;0.5
+Ludwig Willhem Allee;61;Berlin;Herr Balles;242;97;6596;4;12.0;0.65
+Baumschulenweg;84;Berlin;Frau Lambagi;121;48;4704;4;12.0;1.38
+Baumschulenweg;22;Berlin;Frau Lambagi;214;86;8170;3;9.0;0.85
+Baumschulenweg;18;Berlin;Frau Lambagi;151;60;4320;4;12.0;1.72
+Baumschulenweg;39;Berlin;Frau Lambagi;231;92;8648;4;12.0;1.63
+Heidelstraße;84;Berlin;Frau Bauer;161;64;4352;4;12.0;1.13
+Heidelstraße;89;Berlin;Frau Bauer;237;95;6365;4;12.0;0.4
+Heidelstraße;14;Berlin;Frau Bauer;243;97;6208;4;12.0;0.96
+Heidelstraße;38;Berlin;Frau Bauer;54;22;2090;5;15.0;0.8
+Treptower Weg;73;Berlin;Frau Smirnow;83;33;2838;3;9.0;1.35
+Treptower Weg;20;Berlin;Frau Smirnow;57;23;1656;2;6.0;1.6
+Treptower Weg;31;Berlin;Frau Smirnow;87;35;2975;4;12.0;0.8
+Treptower Weg;1;Berlin;Frau Smirnow;209;84;5460;3;9.0;0.46
+Treptower Weg;80;Berlin;Frau Smirnow;168;67;4221;3;9.0;1.42
+Einstein Straße;43;Berlin;Frau Smirnow;95;38;3230;3;9.0;1.31
+Einstein Straße;65;Berlin;Frau Smirnow;161;64;5760;4;12.0;0.71
+Einstein Straße;28;Berlin;Frau Smirnow;128;51;4386;5;15.0;0.87

@@ -1,0 +1,78 @@
+Sehr geehrte Frau Smirnow,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Bernauer Straße 26:
+
+-Außentemperatur 10 °C: 851.904 kW
+-Außentemperatur 0 °C: 1703.808 kW
+-Außentemperatur -10 °C: 2555.712 kW
+
+Transmissionsemissionsverluste für Bernauer Straße 74:
+
+-Außentemperatur 10 °C: 619.315 kW
+-Außentemperatur 0 °C: 1238.63 kW
+-Außentemperatur -10 °C: 1857.945 kW
+
+Transmissionsemissionsverluste für Bernauer Straße 73:
+
+-Außentemperatur 10 °C: 439.296 kW
+-Außentemperatur 0 °C: 878.592 kW
+-Außentemperatur -10 °C: 1317.888 kW
+
+Transmissionsemissionsverluste für Bernauer Straße 20:
+
+-Außentemperatur 10 °C: 838.958 kW
+-Außentemperatur 0 °C: 1677.916 kW
+-Außentemperatur -10 °C: 2516.875 kW
+
+Transmissionsemissionsverluste für Treptower Weg 73:
+
+-Außentemperatur 10 °C: 459.756 kW
+-Außentemperatur 0 °C: 919.512 kW
+-Außentemperatur -10 °C: 1379.268 kW
+
+Transmissionsemissionsverluste für Treptower Weg 20:
+
+-Außentemperatur 10 °C: 211.968 kW
+-Außentemperatur 0 °C: 423.936 kW
+-Außentemperatur -10 °C: 635.904 kW
+
+Transmissionsemissionsverluste für Treptower Weg 31:
+
+-Außentemperatur 10 °C: 380.8 kW
+-Außentemperatur 0 °C: 761.6 kW
+-Außentemperatur -10 °C: 1142.4 kW
+
+Transmissionsemissionsverluste für Treptower Weg 1:
+
+-Außentemperatur 10 °C: 301.392 kW
+-Außentemperatur 0 °C: 602.784 kW
+-Außentemperatur -10 °C: 904.176 kW
+
+Transmissionsemissionsverluste für Treptower Weg 80:
+
+-Außentemperatur 10 °C: 719.258 kW
+-Außentemperatur 0 °C: 1438.516 kW
+-Außentemperatur -10 °C: 2157.775 kW
+
+Transmissionsemissionsverluste für Einstein Straße 43:
+
+-Außentemperatur 10 °C: 507.756 kW
+-Außentemperatur 0 °C: 1015.512 kW
+-Außentemperatur -10 °C: 1523.268 kW
+
+Transmissionsemissionsverluste für Einstein Straße 65:
+
+-Außentemperatur 10 °C: 654.336 kW
+-Außentemperatur 0 °C: 1308.672 kW
+-Außentemperatur -10 °C: 1963.008 kW
+
+Transmissionsemissionsverluste für Einstein Straße 28:
+
+-Außentemperatur 10 °C: 763.164 kW
+-Außentemperatur 0 °C: 1526.328 kW
+-Außentemperatur -10 °C: 2289.492 kW
+
+
+Mit besten Grüßen
+Max Mustermann

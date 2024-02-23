@@ -1,0 +1,48 @@
+Sehr geehrte Herr Balles,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Ludwig Willhem Allee 34:
+
+-Außentemperatur 10 °C: 1400.059 kW
+-Außentemperatur 0 °C: 2800.118 kW
+-Außentemperatur -10 °C: 4200.177 kW
+
+Transmissionsemissionsverluste für Ludwig Willhem Allee 74:
+
+-Außentemperatur 10 °C: 380.88 kW
+-Außentemperatur 0 °C: 761.76 kW
+-Außentemperatur -10 °C: 1142.64 kW
+
+Transmissionsemissionsverluste für Ludwig Willhem Allee 52:
+
+-Außentemperatur 10 °C: 447.705 kW
+-Außentemperatur 0 °C: 895.411 kW
+-Außentemperatur -10 °C: 1343.116 kW
+
+Transmissionsemissionsverluste für Ludwig Willhem Allee 41:
+
+-Außentemperatur 10 °C: 523.26 kW
+-Außentemperatur 0 °C: 1046.52 kW
+-Außentemperatur -10 °C: 1569.78 kW
+
+Transmissionsemissionsverluste für Ludwig Willhem Allee 75:
+
+-Außentemperatur 10 °C: 220.752 kW
+-Außentemperatur 0 °C: 441.504 kW
+-Außentemperatur -10 °C: 662.256 kW
+
+Transmissionsemissionsverluste für Ludwig Willhem Allee 15:
+
+-Außentemperatur 10 °C: 249.2 kW
+-Außentemperatur 0 °C: 498.4 kW
+-Außentemperatur -10 °C: 747.6 kW
+
+Transmissionsemissionsverluste für Ludwig Willhem Allee 61:
+
+-Außentemperatur 10 °C: 685.984 kW
+-Außentemperatur 0 °C: 1371.968 kW
+-Außentemperatur -10 °C: 2057.952 kW
+
+
+Mit besten Grüßen
+Max Mustermann

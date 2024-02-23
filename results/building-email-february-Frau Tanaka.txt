@@ -1,0 +1,66 @@
+Sehr geehrte Frau Tanaka,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 36:
+
+-Außentemperatur 10 °C: 492.48 kW
+-Außentemperatur 0 °C: 984.96 kW
+-Außentemperatur -10 °C: 1477.44 kW
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 16:
+
+-Außentemperatur 10 °C: 529.257 kW
+-Außentemperatur 0 °C: 1058.515 kW
+-Außentemperatur -10 °C: 1587.772 kW
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 43:
+
+-Außentemperatur 10 °C: 1419.264 kW
+-Außentemperatur 0 °C: 2838.528 kW
+-Außentemperatur -10 °C: 4257.792 kW
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 77:
+
+-Außentemperatur 10 °C: 496.944 kW
+-Außentemperatur 0 °C: 993.888 kW
+-Außentemperatur -10 °C: 1490.832 kW
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 95:
+
+-Außentemperatur 10 °C: 1040.4 kW
+-Außentemperatur 0 °C: 2080.8 kW
+-Außentemperatur -10 °C: 3121.2 kW
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 20:
+
+-Außentemperatur 10 °C: 462.528 kW
+-Außentemperatur 0 °C: 925.056 kW
+-Außentemperatur -10 °C: 1387.584 kW
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 44:
+
+-Außentemperatur 10 °C: 486.393 kW
+-Außentemperatur 0 °C: 972.787 kW
+-Außentemperatur -10 °C: 1459.18 kW
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 66:
+
+-Außentemperatur 10 °C: 1067.904 kW
+-Außentemperatur 0 °C: 2135.808 kW
+-Außentemperatur -10 °C: 3203.712 kW
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 52:
+
+-Außentemperatur 10 °C: 417.24 kW
+-Außentemperatur 0 °C: 834.48 kW
+-Außentemperatur -10 °C: 1251.72 kW
+
+Transmissionsemissionsverluste für Siegmund-Klee-Straße 45:
+
+-Außentemperatur 10 °C: 920.92 kW
+-Außentemperatur 0 °C: 1841.84 kW
+-Außentemperatur -10 °C: 2762.76 kW
+
+
+Mit besten Grüßen
+Max Mustermann

@@ -1,0 +1,96 @@
+Sehr geehrte Herr Schwarz,mit diesem Brief erhalten Sie ein Update zu Ihren 3 Gebäuden in Ihrem Immobilien-Portfolio. 
+Wir haben Ihre Gebäude in Hinblick auf die Transmissionesemissionsverluste bei verschiedenen Außentemperaturniveaus untersucht.
+
+Transmissionsemissionsverluste für Dörpfelder Straße 17:
+
+-Außentemperatur 10 °C: 440.496 kW
+-Außentemperatur 0 °C: 880.992 kW
+-Außentemperatur -10 °C: 1321.488 kW
+
+Transmissionsemissionsverluste für Dörpfelder Straße 14:
+
+-Außentemperatur 10 °C: 286.944 kW
+-Außentemperatur 0 °C: 573.888 kW
+-Außentemperatur -10 °C: 860.832 kW
+
+Transmissionsemissionsverluste für Dörpfelder Straße 77:
+
+-Außentemperatur 10 °C: 325.987 kW
+-Außentemperatur 0 °C: 651.974 kW
+-Außentemperatur -10 °C: 977.961 kW
+
+Transmissionsemissionsverluste für Dörpfelder Straße 93:
+
+-Außentemperatur 10 °C: 809.472 kW
+-Außentemperatur 0 °C: 1618.944 kW
+-Außentemperatur -10 °C: 2428.416 kW
+
+Transmissionsemissionsverluste für Dörpfelder Straße 72:
+
+-Außentemperatur 10 °C: 358.44 kW
+-Außentemperatur 0 °C: 716.88 kW
+-Außentemperatur -10 °C: 1075.32 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 29:
+
+-Außentemperatur 10 °C: 243.2 kW
+-Außentemperatur 0 °C: 486.4 kW
+-Außentemperatur -10 °C: 729.6 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 51:
+
+-Außentemperatur 10 °C: 262.656 kW
+-Außentemperatur 0 °C: 525.312 kW
+-Außentemperatur -10 °C: 787.968 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 81:
+
+-Außentemperatur 10 °C: 761.608 kW
+-Außentemperatur 0 °C: 1523.216 kW
+-Außentemperatur -10 °C: 2284.824 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 14:
+
+-Außentemperatur 10 °C: 463.97 kW
+-Außentemperatur 0 °C: 927.94 kW
+-Außentemperatur -10 °C: 1391.91 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 65:
+
+-Außentemperatur 10 °C: 507.408 kW
+-Außentemperatur 0 °C: 1014.816 kW
+-Außentemperatur -10 °C: 1522.224 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 16:
+
+-Außentemperatur 10 °C: 924.76 kW
+-Außentemperatur 0 °C: 1849.521 kW
+-Außentemperatur -10 °C: 2774.282 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 39:
+
+-Außentemperatur 10 °C: 348.732 kW
+-Außentemperatur 0 °C: 697.465 kW
+-Außentemperatur -10 °C: 1046.198 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 97:
+
+-Außentemperatur 10 °C: 1761.177 kW
+-Außentemperatur 0 °C: 3522.355 kW
+-Außentemperatur -10 °C: 5283.532 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 61:
+
+-Außentemperatur 10 °C: 909.72 kW
+-Außentemperatur 0 °C: 1819.44 kW
+-Außentemperatur -10 °C: 2729.16 kW
+
+Transmissionsemissionsverluste für Maria Selmund Weg 60:
+
+-Außentemperatur 10 °C: 324.563 kW
+-Außentemperatur 0 °C: 649.126 kW
+-Außentemperatur -10 °C: 973.689 kW
+
+
+Mit besten Grüßen
+Max Mustermann
